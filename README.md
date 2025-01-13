@@ -2,7 +2,7 @@
 This project focuses on building a chatbot, **MediGuide**, capable of assisting users with symptom-based guidance. The chatbot leverages natural language processing (NLP) and machine learning techniques to understand user inputs and respond accurately based on predefined intents. It is designed to provide a conversational interface for users to interact with the system seamlessly.  
 
 ## Data Source  
-The initial dataset for this project was obtained from [Kaggle](https://www.kaggle.com), and it was customized to suit the requirements of the chatbot. The dataset is stored in a JSON file (`symptoms_Intent1.json`) and contains predefined intents, patterns (user inputs), and corresponding responses.  
+The initial dataset for this project was obtained from Kaggle, and it was customized to suit the requirements of the chatbot. The dataset is stored in a JSON file (`symptoms_Intent1.json`) and contains predefined intents, patterns (user inputs), and corresponding responses.  
 
 ## Implementation Details  
 
